@@ -112,7 +112,7 @@ class SimpleCLI:
         """
         while True:
             inp = raw_input('GRM>')
-            if inp == 'quit' or inp == '' or inp == '':
+            if inp == 'quit': #or inp == '' or inp == '':
                 break
             else:                    
                 try:
