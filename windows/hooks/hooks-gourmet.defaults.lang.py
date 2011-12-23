@@ -1,0 +1,1 @@
+hiddenimports = ['gourmet.defaults.defaults_en']
