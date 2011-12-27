@@ -1,6 +1,6 @@
 # -*- mode: python -*-
 a = Analysis([os.path.join(HOMEPATH,'support\\_mountzlib.py'), os.path.join(HOMEPATH,'support\\useUnicode.py'), 'Gourmet.pyw'],
-             pathex=['C:\\Users\\Bernie\\workspace\\grecipe-manager\\windows'],hookspath='C:\\Users\\Bernie\\workspace\\grecipe-manager\\windows\\hooks')
+             pathex=['.'],hookspath='hooks')
 pyz = PYZ(a.pure)
 exe = EXE(pyz,
           a.scripts,
