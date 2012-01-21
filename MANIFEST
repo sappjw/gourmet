@@ -1,6 +1,7 @@
 CHANGES
 ChangeLog
 FAQ
+LICENSE
 MANIFEST
 README
 README.txt
@@ -119,8 +120,6 @@ images/recbox.png
 images/recbox_biggish.ico
 images/recbox_biggish.png
 images/recbox_icon.png
-images/recbox_icon_old.png
-images/recbox_old.ico
 images/reccard.ico
 images/reccard.png
 images/reccard_edit.png
@@ -387,7 +386,6 @@ src/lib/reccard.py
 src/lib/recindex.py
 src/lib/recipeIdentifier.py
 src/lib/recipeManager.py
-src/lib/recipeMerger.py
 src/lib/shopEditor.py
 src/lib/shopgui.py
 src/lib/shopping.py
